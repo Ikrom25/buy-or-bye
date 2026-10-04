@@ -165,7 +165,7 @@
 
 ---
 
-## 🏁 Ожидаемый результат
+## Ожидаемый результат
 
 -  Чистый end-to-end pipeline классификации
 -  Сравнение Dummy, Logistic Regression, CatBoost и MLP
